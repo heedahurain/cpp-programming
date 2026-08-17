@@ -2,6 +2,10 @@
 using namespace std;
 
 // This program demonstrates variables and comments
+/*
+the computer ignores this text
+this is a multi-line comment
+*/
 
 int main() {
     // Declaring and initializing variables , this is a comment
