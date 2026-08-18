@@ -11,9 +11,9 @@ int main(){
     glo = 78; //glo is local variable and it will print 78
     // int a = 4;
     // int b = 5;
-    int a = 4 , b = 5;
-    float pi = 3.14;
-    char c  = 'u';
+    // int a = 4 , b = 5;
+    // float pi = 3.14;
+    // char c  = 'u';
     sum();
     cout<<"\nthe value of variable is : "<<glo<<endl;
     
